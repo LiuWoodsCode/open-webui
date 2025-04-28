@@ -1,3 +1,7 @@
+# Notice
+This fork of Open WebUI is currently unmaintained and is only provided because of the licencing changes made in version 0.6.6, which changed the license so that an Enterprise licence or written approval. 0.6.5 will always be available here in the v065 branch.
+
+Begin original readme.
 # Open WebUI 👋
 
 ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
